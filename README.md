@@ -1,5 +1,5 @@
 ## Overview
-**Game Analytics Lab** is a specialized analytical framework designed to uncover deep patterns and non-obvious correlations in the gaming industry. By combining massive data harvesting, automated pre-filtering, and a sophisticated multi-layered AI-Human synthesis, we transform raw telemetry into actionable strategic fixes.
+**The Kniffy Lab** is a specialized analytical framework designed to uncover deep patterns and non-obvious correlations in the gaming industry. By combining massive data harvesting, automated pre-filtering, and a sophisticated multi-layered AI-Human synthesis, we transform raw telemetry into actionable strategic fixes.
 
 The "Lab" in our name reflects our experimental approach: we look for value at the intersection of diverse data points where traditional analytics often fail.
 
